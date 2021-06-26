@@ -6,10 +6,10 @@ Welcome This is a Practice Project to show basic understanding of ReactJS and Im
 Project Description: 
 This project takes users information firstname, lastname etc. and confirms with the user his inputs on success it gets pushed to the server. THIS BUILD IS CURRENTLY PURELY FRONT-END.
 
-Installation and Setup Instructions:
+<h1>Installation and Setup Instructions</h1>
 Clone down this repository. You will need node and npm installed globally on your machine.
 
-Installation:
+<h2>Installation</h2>
 
 npm install
 
