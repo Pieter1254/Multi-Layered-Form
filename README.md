@@ -29,6 +29,7 @@ To Visit App:
 
 localhost:3000/ideas
 
+<h1>Version</h1>
 This is a Javascript Project which uses React Framework and Material-UI React Framework.
 This project was built using ReactJS 7.11.2 and Material-UI 4.11.1
 
