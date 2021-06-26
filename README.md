@@ -7,19 +7,21 @@ Project Description:
 This project takes users information firstname, lastname etc. and confirms with the user his inputs on success it gets pushed to the server. THIS BUILD IS CURRENTLY PURELY FRONT-END.
 
 <h1>Installation and Setup Instructions</h1>
-Clone down this repository. You will need node and npm installed globally on your machine.
+Clone down this repository. You will need <code>node</code> and <code>npm</code> installed globally on your machine.
 
 <h2>Installation</h2>
 
-npm install
+<code>npm install</code>
+
+<code>npm install @material-ui/core</code>
 
 To Run Test Suite:
 
-npm test
+<code>npm test</code>
 
 To Start Server:
 
-<code>npm start</code
+<code>npm start</code>
 
 To Visit App:
 
