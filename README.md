@@ -11,8 +11,10 @@ Clone down this repository. You will need <code>node</code> and <code>npm</code>
 
 <h2>Installation</h2>
 
+First:
 <code>npm install</code>
 
+Secondly:
 <code>npm install @material-ui/core</code>
 
 To Run Test Suite:
