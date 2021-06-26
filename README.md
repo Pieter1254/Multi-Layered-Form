@@ -37,14 +37,15 @@ This project was built using ReactJS 7.11.2 and Material-UI 4.11.1
 
 
 <h1>Project Screenshots</h1>
-![2021-06-26 (7)](https://user-images.githubusercontent.com/77567403/123518055-25d3c100-d659-11eb-9a33-159d9df48640.png)
-![2021-06-26 (8)](https://user-images.githubusercontent.com/77567403/123518058-279d8480-d659-11eb-8799-5586d77da3f7.png)
-![2021-06-26 (9)](https://user-images.githubusercontent.com/77567403/123518061-2a987500-d659-11eb-826a-8ed46d8f0dc5.png)
-![2021-06-26 (10)](https://user-images.githubusercontent.com/77567403/123518063-2bc9a200-d659-11eb-935f-b02f769d18fa.png)
-![2021-06-26 (11)](https://user-images.githubusercontent.com/77567403/123518065-2cfacf00-d659-11eb-9672-cdd23b918b5a.png)
-![2021-06-26](https://user-images.githubusercontent.com/77567403/123518070-2ec49280-d659-11eb-8400-5c436a4f55c6.png)
-![2021-06-26 (3)](https://user-images.githubusercontent.com/77567403/123518071-2ff5bf80-d659-11eb-891f-98dc4bfcc798.png)
-![2021-06-26 (4)](https://user-images.githubusercontent.com/77567403/123518078-31bf8300-d659-11eb-925d-92017c7b2cf0.png)
-![2021-06-26 (5)](https://user-images.githubusercontent.com/77567403/123518081-32f0b000-d659-11eb-8088-560025974d44.png)
+![2021-06-26 (7)](https://user-images.githubusercontent.com/77567403/123518263-fe312880-d659-11eb-9cfe-0567d0da4045.png)
+![2021-06-26 (8)](https://user-images.githubusercontent.com/77567403/123518265-fffaec00-d659-11eb-9cb1-f09dbe1130c2.png)
+![2021-06-26 (9)](https://user-images.githubusercontent.com/77567403/123518267-01c4af80-d65a-11eb-856f-f591a572f3e3.png)
+![2021-06-26 (10)](https://user-images.githubusercontent.com/77567403/123518270-038e7300-d65a-11eb-93e1-835fb358d8ad.png)
+![2021-06-26 (11)](https://user-images.githubusercontent.com/77567403/123518272-04bfa000-d65a-11eb-9e78-20d9cdf0f4b0.png)
+![2021-06-26](https://user-images.githubusercontent.com/77567403/123518273-06896380-d65a-11eb-8350-f3d86f556199.png)
+![2021-06-26 (3)](https://user-images.githubusercontent.com/77567403/123518275-07ba9080-d65a-11eb-9b62-7d1c2d2dba8f.png)
+![2021-06-26 (4)](https://user-images.githubusercontent.com/77567403/123518279-08ebbd80-d65a-11eb-8e39-48cf00f6bd08.png)
+![2021-06-26 (5)](https://user-images.githubusercontent.com/77567403/123518282-0a1cea80-d65a-11eb-8f90-3341e7de9976.png)
+
 
 
