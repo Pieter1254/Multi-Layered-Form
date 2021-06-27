@@ -46,6 +46,9 @@ This project was built using ReactJS 7.11.2 and Material-UI 4.11.1
 ![2021-06-26 (3)](https://user-images.githubusercontent.com/77567403/123518275-07ba9080-d65a-11eb-9b62-7d1c2d2dba8f.png)
 ![2021-06-26 (4)](https://user-images.githubusercontent.com/77567403/123518279-08ebbd80-d65a-11eb-8e39-48cf00f6bd08.png)
 ![2021-06-26 (5)](https://user-images.githubusercontent.com/77567403/123518282-0a1cea80-d65a-11eb-8f90-3341e7de9976.png)
-
+![2021-06-27 (2)](https://user-images.githubusercontent.com/77567403/123551198-9ba55e80-d725-11eb-84b5-2bc1e6e57458.png)
+![2021-06-27 (3)](https://user-images.githubusercontent.com/77567403/123551201-9e07b880-d725-11eb-897e-32ebfec47b9e.png)
+![2021-06-27](https://user-images.githubusercontent.com/77567403/123551202-9f38e580-d725-11eb-9bff-ca2994965554.png)
+![2021-06-27 (1)](https://user-images.githubusercontent.com/77567403/123551203-a102a900-d725-11eb-8413-34f34ff155f4.png)
 
 
